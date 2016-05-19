@@ -17,13 +17,13 @@
 ################################################################################
 
 PKG_NAME="tvheadend"
-PKG_VERSION="ac9e47d"
-PKG_REV="4"
+PKG_VERSION="4.1.x"
+PKG_REV="5"
 PKG_ARCH="any"
 PKG_LICENSE="GPL"
 PKG_SITE="http://www.tvheadend.org"
 PKG_GIT_URL="https://github.com/tvheadend/tvheadend.git"
-PKG_GIT_BRANCH="release/4.0"
+PKG_GIT_BRANCH="master"
 PKG_DEPENDS_TARGET="toolchain libressl libdvbcsa curl Python:host libhdhomerun"
 PKG_PRIORITY="optional"
 PKG_SECTION="service/multimedia"
